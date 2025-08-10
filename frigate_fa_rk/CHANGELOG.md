@@ -1,3 +1,7 @@
+### 0.16.0-rc3-rk
+
+- *
+
 ### 0.15.1
 
 - Update to 0.15.1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v0.15.1)
